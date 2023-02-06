@@ -12,6 +12,13 @@ npm i
 ## Usage?
 
 ```
+node token <email> <password>
+```
+```
+node token risqi@gmail.id risqi123
+```
+atau
+```
 node axiosToken
 ```
 atau
