@@ -1,6 +1,6 @@
-const DiscordDatabase = require("discord-cloud-database");
+import DiscordDatabase from "discord-cloud-database";
 const discordDatabase = new DiscordDatabase();
-const fs = require("fs");
+import fs from "fs";
 /**
  * M Khoirul Risqi
  * https://github.com/risqikhoirul
